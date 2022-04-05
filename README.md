@@ -1,4 +1,5 @@
 # Basic-Task-Tracker
+![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 This task tracker app lets users keep track of tasks they need to complete.
 
